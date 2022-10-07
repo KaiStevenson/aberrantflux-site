@@ -1,0 +1,41 @@
+body{
+    margin: 0px;
+}
+.background {
+    background-image: url("background.jpg");
+    width: 100%;
+    min-height: 100%;
+}
+.contentpane {
+    margin: auto;
+    width: 100%;
+    max-width: 1000px;
+    min-height: 100%;
+    background-color: #0a0a1de3;
+}
+h1 {
+    text-align: center;
+    font-family: Georgia, serif;
+    color: white;
+    padding: 50px 0px 15px 0px;
+}
+p {
+    text-align: left;
+    text-indent: 25px;
+    font-family: Georgia, serif;
+    color: white;
+    padding: 15px 50px 15px 50px;
+}
+a {
+    color: white;
+}
+a.pagelink {
+    font-size: 125%;
+    padding: 15px 50px 15px 80px;
+    display: block;
+}
+a.backbutton {
+    font-size: 75%;
+    padding: 0px;
+    text-decoration: overline;
+}
