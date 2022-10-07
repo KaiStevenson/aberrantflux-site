@@ -1,33 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@400;600&display=swap');
+:root {
+    --background: #121d28;
+    --text: #bbd7f2;
+    --header: #bbd7f2;
+    --highlight: #7ceea7;
+}
 body{
     margin: 0px;
 }
 .background {
-    background-image: url("background.jpg");
+    background-color: var(--background);
     width: 100%;
     min-height: 100%;
 }
 .contentpane {
     margin: auto;
-    width: 100%;
-    max-width: 1000px;
+    width: 60%;
     min-height: 100%;
-    background-color: #0a0a1de3;
 }
 h1 {
     text-align: center;
-    font-family: Georgia, serif;
-    color: white;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 28pt;
+    font-weight: 600;
+    color: var(--header);
     padding: 50px 0px 15px 0px;
 }
 p {
     text-align: left;
     text-indent: 25px;
-    font-family: Georgia, serif;
-    color: white;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 14pt;
+    color: var(--text);
     padding: 15px 50px 15px 50px;
 }
 a {
-    color: white;
+    color: var(--text);
+    font-family: 'Quicksand', sans-serif;
+    font-style: italic;
+    
+}
+a:hover {
+    color: var(--highlight);
 }
 a.pagelink {
     font-size: 125%;
@@ -35,7 +49,8 @@ a.pagelink {
     display: block;
 }
 a.backbutton {
-    font-size: 75%;
+    font-style: normal;
+    font-size: 80%;
+    text-decoration: none;
     padding: 0px;
-    text-decoration: overline;
 }
