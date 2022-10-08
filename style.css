@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@400;600&display=swap');
+
 :root {
     /* COLOURSCHEME 1, BLUE */
     /*
@@ -15,14 +16,12 @@
     --secondary: #ee8041;
     --highlight: #ee4c41;
 }
-body{
+
+body {
     margin: 0px;
-}
-.background {
     background-color: var(--background);
-    width: 100%;
-    min-height: 100%;
 }
+
 @media (max-aspect-ratio: 6/7) {
     .contentpane {
         margin: auto;
@@ -30,6 +29,7 @@ body{
         min-height: 100%;
     }
 }
+
 @media (min-aspect-ratio: 7/7) {
     .contentpane {
         margin: auto;
@@ -37,6 +37,7 @@ body{
         min-height: 100%;
     }
 }
+
 h1 {
     text-align: center;
     font-family: 'Quicksand', sans-serif;
@@ -45,6 +46,7 @@ h1 {
     color: var(--header);
     padding: 50px 14px 15px 14px;
 }
+
 p {
     text-align: left;
     text-indent: 25px;
@@ -53,14 +55,17 @@ p {
     color: var(--text);
     padding: 8px 50px 8px 50px;
 }
+
 a {
     color: var(--secondary);
     font-family: 'Quicksand', sans-serif;
-    font-style: italic;   
+    font-style: italic;
 }
+
 a:hover {
     color: var(--highlight);
 }
+
 ul h2 {
     text-align: left;
     text-indent: 25px;
@@ -71,20 +76,24 @@ ul h2 {
     color: var(--text);
     padding: 15px 50px 15px 5px;
 }
+
 h2 a {
     font-size: 100%;
     font-style: italic;
 }
+
 a.backbutton {
     font-style: normal;
     font-size: 80%;
     text-decoration: none;
     padding: 0px;
 }
+
 ul {
     list-style-position: outside;
     padding: 0px 0px 0px 75px;
 }
+
 li {
     color: var(--highlight);
 }
