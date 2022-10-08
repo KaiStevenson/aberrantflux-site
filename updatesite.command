@@ -5,5 +5,5 @@ fi
 
 rsync -avzP --rsh=ssh ~/Web/aetherdestroyer root@aetherdestroyer.net:/var/www/
 git add .
-git commit -S -m "$1"
-git push origin main
+git commit -m "$1"
+git push

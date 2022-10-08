@@ -23,10 +23,20 @@ body{
     width: 100%;
     min-height: 100%;
 }
-.contentpane {
-    margin: auto;
-    width: 60%;
-    min-height: 100%;
+@media only screen and (max-width: 1200px){
+    .contentpane {
+        margin: auto;
+        width: 100%;
+        min-height: 100%;
+    }
+}
+@media only screen and (min-width: 600px){
+    .contentpane {
+        margin: auto;
+        min-width: 600px;
+        width: 60%;
+        min-height: 100%;
+    }
 }
 h1 {
     text-align: center;
@@ -34,7 +44,7 @@ h1 {
     font-size: 28pt;
     font-weight: 600;
     color: var(--header);
-    padding: 50px 0px 15px 0px;
+    padding: 50px 14px 15px 14px;
 }
 p {
     text-align: left;
@@ -42,7 +52,7 @@ p {
     font-family: 'Quicksand', sans-serif;
     font-size: 14pt;
     color: var(--text);
-    padding: 2px 50px 2px 50px;
+    padding: 8px 50px 8px 50px;
 }
 a {
     color: var(--secondary);
@@ -60,7 +70,7 @@ ul h2 {
     font-weight: 600;
     font-style: italic;
     color: var(--text);
-    padding: 15px 50px 15px 50px;
+    padding: 15px 50px 15px 5px;
 }
 h2 a {
     font-size: 100%;
@@ -73,9 +83,9 @@ a.backbutton {
     padding: 0px;
 }
 ul {
-    padding-left: 0px;
+    list-style-position: outside;
+    padding: 0px 0px 0px 75px;
 }
 li {
-    list-style-position: inside;
     color: var(--highlight);
 }
