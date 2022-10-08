@@ -1,9 +1,19 @@
 @import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@400;600&display=swap');
 :root {
+    /* COLOURSCHEME 1, BLUE */
+    /*
     --background: #121d28;
     --text: #bbd7f2;
     --header: #bbd7f2;
+    --secondary: #76baf9;
     --highlight: #7ceea7;
+    */
+    /* COLOURSCHEME 2, ORANGE */
+    --background: #141210;
+    --header: #fdb04d;
+    --text: #faca8b;
+    --secondary: #ee8041;
+    --highlight: #ee4c41;
 }
 body{
     margin: 0px;
@@ -32,25 +42,40 @@ p {
     font-family: 'Quicksand', sans-serif;
     font-size: 14pt;
     color: var(--text);
-    padding: 15px 50px 15px 50px;
+    padding: 2px 50px 2px 50px;
 }
 a {
-    color: var(--text);
+    color: var(--secondary);
     font-family: 'Quicksand', sans-serif;
-    font-style: italic;
-    
+    font-style: italic;   
 }
 a:hover {
     color: var(--highlight);
 }
-a.pagelink {
-    font-size: 125%;
-    padding: 15px 50px 15px 80px;
-    display: block;
+ul h2 {
+    text-align: left;
+    text-indent: 25px;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 16pt;
+    font-weight: 600;
+    font-style: italic;
+    color: var(--text);
+    padding: 15px 50px 15px 50px;
+}
+h2 a {
+    font-size: 100%;
+    font-style: italic;
 }
 a.backbutton {
     font-style: normal;
     font-size: 80%;
     text-decoration: none;
     padding: 0px;
+}
+ul {
+    padding-left: 0px;
+}
+li {
+    list-style-position: inside;
+    color: var(--highlight);
 }
