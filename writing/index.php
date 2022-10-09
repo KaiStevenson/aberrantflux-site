@@ -10,7 +10,7 @@ require($_SERVER["DOCUMENT_ROOT"] . "/header.php");
 </p>
 <ul>
     <li>
-        <h2><a href="cryptography.php">Cryptography</a> /* Keep yourself safe */</h2>
+        <h3><a href="cryptography.php">Cryptography</a> /* Keep yourself safe */</h3>
     </li>
 </ul>
 <?php require($_SERVER["DOCUMENT_ROOT"] . "/footer.php"); ?>

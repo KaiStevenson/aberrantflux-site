@@ -1,5 +1,5 @@
 <?php
-$title = "Etc";
+$title = "Et cetera";
 require($_SERVER["DOCUMENT_ROOT"] . "/head.php");
 require($_SERVER["DOCUMENT_ROOT"] . "/header.php");
 ?>
