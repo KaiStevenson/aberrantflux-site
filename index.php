@@ -3,7 +3,8 @@ $title = "Hello, I'm Kai!";
 require($_SERVER["DOCUMENT_ROOT"] . "/head.php");
 require($_SERVER["DOCUMENT_ROOT"] . "/header.php");
 ?>
-<p>This is my Web site for cool things, like my programming, music, writing, photography, and anything else I
+<p>
+    This is my Web site for cool things, like my programming, music, writing, photography, and anything else I
     think of.
     I'm a social sciences student at UVic, though I'm also passionate about technology. I also have another
     website at
