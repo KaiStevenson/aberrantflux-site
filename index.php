@@ -8,7 +8,7 @@ require($_SERVER["DOCUMENT_ROOT"] . "/header.php");
     think of.
     I'm a social sciences student at UVic, though I'm also passionate about technology. I also have another
     website at
-    kaistevenson.com, if you don't like static-ish sites :(. You can email me at kai@kaistevenson.com.
+    kaistevenson.com, if you don't like this one :(. You can email me at kai@kaistevenson.com.
 </p>
 <ul>
     <li>
