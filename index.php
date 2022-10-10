@@ -6,7 +6,7 @@ require($_SERVER["DOCUMENT_ROOT"] . "/header.php");
 <p>
     This is my Web site for cool things, like my programming, music, writing, photography, and anything else I
     think of.
-    I'm a social sciences student at UVic, though I'm also passionate about technology. I also have another
+    I'm a social sciences student at UVic in Canada, though I'm also passionate about technology. I also have another
     website at
     kaistevenson.com, if you don't like this one :(. You can email me at kai@kaistevenson.com.
 </p>
