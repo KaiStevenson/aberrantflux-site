@@ -4,10 +4,10 @@ require($_SERVER["DOCUMENT_ROOT"] . "/head.php");
 require($_SERVER["DOCUMENT_ROOT"] . "/header.php");
 ?>
 <p>
-    This site is a member of the <a href="nullring.xyz">Null Webring</a>.   
+    This site is a member of the <a href="https://nullring.xyz">Null Webring</a>.   
 </p>
-<pre>
-         
+<div style="width: 100%;  text-align: center;">
+    <pre style="display: inline-block; text-align: left;">   
                                                  ,▄▓▄,
                    ╓g▄▓▓▓▓▓▓▓▓▓▓▓▓▄▄╖         ,▓▓▓▓▓▓▓,
                g▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▄,  ╔▓▓▓▓▓▓▓▓▓"
@@ -33,5 +33,6 @@ require($_SERVER["DOCUMENT_ROOT"] . "/header.php");
  ╚▓▓▓▓▓▓▓▓"      ╙▀▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▀"
    ▀▓▓▓▀                ╙"╙╙╙╙"╙
      ╙
-</pre>
+    </pre>
+</div>
 <?php require($_SERVER["DOCUMENT_ROOT"] . "/footer.php"); ?>
