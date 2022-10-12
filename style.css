@@ -106,3 +106,7 @@ ul {
 li {
     color: var(--highlight);
 }
+.footer {
+    width: auto;
+    margin: auto;
+}
