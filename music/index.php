@@ -4,7 +4,7 @@ require($_SERVER["DOCUMENT_ROOT"] . "/head.php");
 require($_SERVER["DOCUMENT_ROOT"] . "/header.php");
 ?>
 <p>
-    The following links lead to music I've recorded. Anything marked with "*" is improv or my own 
+    The following links lead to music I've recorded. Anything marked with # is improv or my own 
     composition. 
 </p>
 <ul>
@@ -12,7 +12,7 @@ require($_SERVER["DOCUMENT_ROOT"] . "/header.php");
         <h3><a href="angelfish.mp3">Angelfish</a></h3>
     </li>
     <li>
-        <h3><a href="music/dne.html">09/15/22 *</a></h3>
+        <h3><a href="music/dne.html">09/15/22 - #</a></h3>
     </li>
 </ul>
 <?php require($_SERVER["DOCUMENT_ROOT"] . "/footer.php"); ?>
