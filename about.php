@@ -38,4 +38,5 @@ If you're curious about anything here, you can email me at kai@kaistevenson.com.
      ╙
     </pre>
 </div>
+<h3 class="nav"><a>[Last site]</a> | <a href="https://www.nullring.xyz">[Nullring]</a> | <a>[Next site]</a></h3>
 <?php require($_SERVER["DOCUMENT_ROOT"] . "/footer.php"); ?>
