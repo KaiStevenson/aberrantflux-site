@@ -110,3 +110,6 @@ li {
     width: auto;
     margin: auto;
 }
+.ascii {
+    color: var(--secondary);
+}

@@ -10,7 +10,7 @@ If you're curious about anything here, you can email me at kai@kaistevenson.com.
 </p>
 <p>This site is a member of the <a href="https://nullring.xyz">Null Webring</a>.</p>
 <div style="width: 100%;  text-align: center;">
-    <pre style="display: inline-block; text-align: left;">   
+    <pre class="ascii" style="display: inline-block; text-align: left;">   
                                                  ,▄▓▄,
                    ╓g▄▓▓▓▓▓▓▓▓▓▓▓▓▄▄╖         ,▓▓▓▓▓▓▓,
                g▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▄,  ╔▓▓▓▓▓▓▓▓▓"
