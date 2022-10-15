@@ -4,7 +4,15 @@ require($_SERVER["DOCUMENT_ROOT"] . "/head.php");
 require($_SERVER["DOCUMENT_ROOT"] . "/header.php");
 ?>
 <p>
-    I haven't recorded anything yet. If you like jazz piano improv, you could check back a little later and there
-    might be some here.
+    The following links lead to music I've recorded. Anything marked with "*" is improv or my own 
+    composition. 
 </p>
+<ul>
+    <li>
+        <h3><a href="angelfish.mp3">Angelfish</a></h3>
+    </li>
+    <li>
+        <h3><a href="music/dne.html">09/15/22 *</a></h3>
+    </li>
+</ul>
 <?php require($_SERVER["DOCUMENT_ROOT"] . "/footer.php"); ?>
