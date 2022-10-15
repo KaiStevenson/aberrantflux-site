@@ -9,7 +9,7 @@ require($_SERVER["DOCUMENT_ROOT"] . "/header.php");
 </p>
 <ul>
     <li>
-        <h3><a href="angelfish.mp3">Angelfish</a></h3>
+        <h3><a href="angelfish.wav">Angelfish</a></h3>
     </li>
     <li>
         <h3><a href="music/dne.html">09/15/22 - #</a></h3>
