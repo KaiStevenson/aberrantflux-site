@@ -20,7 +20,7 @@ require($_SERVER["DOCUMENT_ROOT"] . "/header.php");
         <h3><a href="angelfish.wav">Angelfish</a></h3>
     </li>
     <li>
-        <h3><a href="music/091622.wav">09/16/22 - #</a></h3>
+        <h3><a href="091622.wav">09/16/22 - #</a></h3>
     </li>
 </ul>
 <?php require($_SERVER["DOCUMENT_ROOT"] . "/footer.php"); ?>
