@@ -1,1 +1,1 @@
-This is the repo for the site currently hosted at www.aberrantflux.net. The site is one of my two personal sites, alongside www.kaistevenson.com. This one is focused more on being light-weight and elegant. 
+This is the repo for the site currently hosted at www.aberrantflux.xyz. The site is one of my two personal sites, alongside www.kaistevenson.com. This one is focused more on being light-weight and elegant. 

@@ -1,4 +1,4 @@
-rsync -avzP --rsh=ssh . root@covalent.aetherdestroyer.net:/var/www/aetherdestroyer
+rsync -avzP --rsh=ssh . root@www.aberrantflux.xyz:/var/www/aberrantflux-site
 
 if [ $# -eq 0 ]; then
 	exit 0
