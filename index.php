@@ -12,19 +12,19 @@ require($_SERVER["DOCUMENT_ROOT"] . "/header.php");
 </p>
 <ul>
     <li>
-	<h3><a href="writing/">Writing../</a> /* Proudly part of the 84% */</h3>
+	<h3><a href="writing/">~/doc/</a> /* My writing and notes */</h3>
     </li>
     <li>
-	<h3><a href="programming/">Programming../</a> /* Easier than it looks */</h3>
+	<h3><a href="programming/">~/src/</a> /* My programming */</h3>
     </li>
     <li>
-	<h3><a href="music/">Music../</a> /* Dmin7, G7, CMaj7 */</h3>
+	<h3><a href="music/">~/music/</a> /* My music */</h3>
     </li>
     <li>
-	<h3><a href="photography/">Photography../</a> /* Still alive */</h3>
+	<h3><a href="photography/">~/pic/</a> /* My photography */</h3>
     </li>
     <li>
-	<h3><a href="etc/">Etc../</a> /* Everything else */</h3>
+	<h3><a href="etc/">~/misc/</a> /* Other stuff */</h3>
     </li>
 </ul>
 <?php require($_SERVER["DOCUMENT_ROOT"] . "/footer.php"); ?>
