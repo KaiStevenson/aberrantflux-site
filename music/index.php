@@ -7,8 +7,10 @@ require($_SERVER["DOCUMENT_ROOT"] . "/header.php");
     The following links lead to music I've recorded. Anything marked with # is improv or my own 
     composition. Anything else isn't my music, but is my playing. These recordings originate from
     one of two pianos: my 1903 Bechstein parlor grand or my Casio PX-S3000 digital piano.
-    My digital piano can obviously record itself. For my acoustic piano, I either use my phone's
-    voice memo app or my MXL990 microphone, depending on how lazy I feel.
+    My digital piano can record MIDI, so I use a DAW to customize and assign a piano sound afterwards.
+    However, I don't edit the MIDI data at all. It's all exactly as-played.
+    For my acoustic piano, I either use my phone's voice memo app or my MXL990 microphone,
+    depending on how lazy I feel.
     Any editing is done in Audacity or Ableton, though most of my recordings are posted raw.
 </p>
 <p>
