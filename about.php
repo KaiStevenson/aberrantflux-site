@@ -5,7 +5,7 @@ require($_SERVER["DOCUMENT_ROOT"] . "/header.php");
 ?>
 <p>
 This site is hosted on a vultr VPS. It serves content through an apache webserver, and has a pretty simple backend.
-I use PHP for templating, CSS for styling, and no JavaScript at all. The server supports HTTPS.
+I use PHP for templating, CSS for styling, and no JavaScript at all. The server supports HTTPS using Let's Encrypt.
 If you're curious about anything here, you can email me at kai@kaistevenson.com.
 </p>
 <p>This site is a member of the <a href="https://nullring.xyz">Null Webring</a>.</p>
