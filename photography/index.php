@@ -16,6 +16,6 @@ require($_SERVER["DOCUMENT_ROOT"] . "/header.php");
     exception of my B&W work.
 </p>
 <p>
-    There's no photos here because I haven't figured out how I want to handle serving images.
+    There're no photos here because I haven't figured out how I want to handle serving images.
 </p>
 <?php require($_SERVER["DOCUMENT_ROOT"] . "/footer.php"); ?>
