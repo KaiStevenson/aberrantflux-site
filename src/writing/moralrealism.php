@@ -1,7 +1,8 @@
 <?php
-$title = "Principles of Crytography for Data Security";
+$title = "On Moral Realism";
 require($_SERVER["DOCUMENT_ROOT"] . "/head.php");
 require($_SERVER["DOCUMENT_ROOT"] . "/header.php");
+?>
 <p>
 	Moral realism is, in essence, the concept that moral statements  deal with a real thing. That is to say, a statement such as "murder is wrong" is a statement of fact
 in much the same way that "the sky is blue" is. As a proposition, it could be said "the statement "murder is wrong" is true." Generally speaking, moral realism is the
