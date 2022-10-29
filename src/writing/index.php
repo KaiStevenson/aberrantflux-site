@@ -12,5 +12,8 @@ require($_SERVER["DOCUMENT_ROOT"] . "/header.php");
     <li>
         <h3><a href="cryptography.php">Cryptography</a> /* Keep yourself safe */</h3>
     </li>
+    <li>
+        <h3><a href="moralrealism.php">Moral realism</a> /* (It's not real)  */</h3>
+    </li>
 </ul>
 <?php require($_SERVER["DOCUMENT_ROOT"] . "/footer.php"); ?>
