@@ -9,10 +9,10 @@ require($_SERVER["DOCUMENT_ROOT"] . "/header.php");
 </p>
 <ul>
     <li>
-        <h3><a href="cryptography.php">Cryptography</a> /* Keep your secrets */</h3>
+        <h3><a href="cryptography.php">Cryptography</a> /* Because secret messages are cool */</h3>
     </li>
     <li>
-        <h3><a href="moralrealism.php">Moral realism</a> /* Murder is fine, actualy */</h3>
+        <h3><a href="moralrealism.php">Moral realism</a> /* Because people make a big deal out of murder */</h3>
     </li>
 </ul>
 <?php require($_SERVER["DOCUMENT_ROOT"] . "/footer.php"); ?>
