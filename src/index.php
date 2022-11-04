@@ -27,8 +27,4 @@ require($_SERVER["DOCUMENT_ROOT"] . "/header.php");
 	<h3><a href="etc/">~/misc/</a> /* Other stuff */</h3>
     </li>
 </ul>
-<p>
-    This site is part of the Null Webring. Take a look at the <a href="about.php/">about page</a> if you want to learn more about that. If you just want
-    to explore the ring, you can take a look at the <a href="https://nullring.xyz">homepage</a>. 
-</p>
 <?php require($_SERVER["DOCUMENT_ROOT"] . "/footer.php"); ?>
