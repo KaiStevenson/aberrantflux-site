@@ -15,7 +15,8 @@ require($_SERVER["DOCUMENT_ROOT"] . "/header.php");
 </p>
 <p>
     I've only played music since 2021, so I am very much an amateur! I enjoy some of my music
-    and hope you will too, but I don't want to imply that I am in any way an expert.
+    and hope you will too, but I don't want to imply that I am in any way an expert. Recently
+    I've gotten into singing, so some recordings of that may appear here in the near future.
 </p>
 <ul>
     <li>
